@@ -1,0 +1,21 @@
+{
+    "version": "1.0",
+    "name": "Basic Open Web App",
+    "description": "Basic web app with manifest.https://github.com/namratanehete/owabasicapp.gitwebapp and index.html file.",
+    "launch_path": "/index.html",
+    "icons": {
+        "16": "/img/icons/openmrs-logo.png",
+        "48": "/img/icons/openmrs-logo.png",
+        "128": "/img/icons/openmrs-logo.png"
+    },
+    "developer": {
+        "name": "Namrata Nehete",
+        "url": ""
+    },
+    "default_locale": "en",
+    "activities": {
+      "openmrs": {
+        "href": "*"
+      }
+    }
+}

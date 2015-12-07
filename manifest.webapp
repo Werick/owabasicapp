@@ -1,7 +1,7 @@
 {
     "version": "1.0",
     "name": "Basic Open Web App",
-    "description": "Basic web app with manifest.https://github.com/namratanehete/owabasicapp.gitwebapp and index.html file.",
+    "description": "Basic web app with manifest.webapp and index.html file.",
     "launch_path": "/index.html",
     "icons": {
         "16": "/img/icons/openmrs-logo.png",
